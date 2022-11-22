@@ -1,5 +1,5 @@
 ---
-title: "The Investigator-Participant Relationship. <br>The Investigator-Community Relationship in International Research."
+title: "Physician- Investigator & Patient-Participant Relationships."
 subtitle: "MDCRC 6430 2022 - Session Six"
 session: ""
 author: "Howard Mann, M.D."
